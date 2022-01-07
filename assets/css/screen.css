@@ -9,7 +9,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding: 1rem 0rem;
-    font-family: 'EB Garamond', serif;
+    /*font-family: 'EB Garamond', serif;*/
+    font-family: "Times New Roman", Times, serif;
 }
 
 a {
@@ -316,7 +317,9 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-weight: 700;
-    font-family: "EB Garamond";
+/*  font-family: "EB Garamond"; */
+    font-family: "Times New Roman", Times, serif;
+
 }
 
 .mainheading h1.posttitle {
@@ -326,6 +329,7 @@ span.post-read-more a:hover {
 }
 
 .footer {
+    font-family: "Times New Roman", Times, serif;
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
     padding-bottom: 12px;
