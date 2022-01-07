@@ -2,8 +2,11 @@
 layout: post
 title: Tecnologia no apoio à alfabetização? Uma oportunidade
 date: '2021-06-23 23:28:10'
-tags:
-- alfabetizacao
+author: maluta
+categories: [ alfabetização ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 O Censo Escolar de 2020 indica que existem 8.252.761 de crianças nos três primeiros anos dos Anos Iniciais. Este período é particularmente especial pois é aí que a [BNCC do Ensino Fundamental](http://basenacionalcomum.mec.gov.br/abase/#fundamental) indica o 2º ano como o o ano de escolaridade **limite** para um estudante aprender a ler e escrever, seguido pelo 3º ano onde o processo continua com mais foco na ortografia.

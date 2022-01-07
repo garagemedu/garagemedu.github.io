@@ -2,9 +2,11 @@
 layout: post
 title: 11 Problemas educacionais brasileiros para empreendedores resolverem
 date: '2021-01-17 23:14:22'
-tags:
-- guia
-- startup
+author: amaral
+categories: [ guia, startup ]
+image: assets/images/um-guia-rapido-para-quem-quer-empreender-com-educacao-no-brasil.jpg
+featured: false
+hidden: false
 ---
 
 # 
@@ -15,5 +17,5 @@ Só no ano passado, foram investidos [R$ 14,35 bilhões](https://www1.folha.uol.
 2. Referências de conteúdo para você consumir
 3. Referências de empreendedores para você seguir
 
-**[C](https://www.linkedin.com/in/thiago-rached-3305006/)ontinua no blog:** [https://www.amaralmedeiros.com/pt-br/um-guia-rapido-para-quem-quer-empreender-com-educacao-no-brasil/](https://www.amaralmedeiros.com/pt-br/um-guia-rapido-para-quem-quer-empreender-com-educacao-no-brasil/)
+**Continua no blog:** [https://www.amaralmedeiros.com/pt-br/um-guia-rapido-para-quem-quer-empreender-com-educacao-no-brasil/](https://www.amaralmedeiros.com/pt-br/um-guia-rapido-para-quem-quer-empreender-com-educacao-no-brasil/)
 

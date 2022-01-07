@@ -2,8 +2,12 @@
 layout: post
 title: Fundo Garagem Educação de financiamento para professores
 date: '2021-02-18 23:21:27'
-tags:
-- financiamento-de-professores
+author: amaral
+categories: [ fundo garagem ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
+
 ---
 
 ## **O problema: zero autonomia e zero recursos para professores investirem em seus alunos**

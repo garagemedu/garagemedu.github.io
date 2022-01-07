@@ -2,9 +2,11 @@
 layout: post
 title: 'Kidato: Um marketplace educacional para aulas em grupo'
 date: '2021-06-20 19:42:45'
-tags:
-- edtech
-- k12
+author: amaral
+categories: [ edtech, K12 ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 Bem-vindo/a ao #EdTechDaSemana, um vídeo de 5 min ou menos falando sobre uma EdTech interessante

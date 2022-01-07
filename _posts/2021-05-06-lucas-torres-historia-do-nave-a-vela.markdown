@@ -4,12 +4,12 @@ title: 'Do zero ao exit: as lições que Lucas Torres aprendeu ao criar, escalar
   o NAV para a ARCO Educação'
 featured: true
 date: '2021-05-06 10:36:00'
-tags:
-- k12
-- zero-ao-exit
+author: amaral
+categories: [ zero ao exit, K12 ]
+image: assets/images/lucas-torres-historia-do-nave-a-vela.jpeg
+featured: true
+hidden: true
 ---
-
-## 
 
 [Lucas Torres](https://www.linkedin.com/in/lucastorresdejesus/) é o empreendedor meio professor pardal que, apesar de ter sofrido em sistemas educacionais conteudistas e muito teóricos, resolveu não só inovar na educação, mas criar uma "Educação para Inovação". Ele é Engenheiro Mecatrônico e mestrando em Educação pela USP, tem 30 anos e nasceu em Borborema, no interior de SP.
 

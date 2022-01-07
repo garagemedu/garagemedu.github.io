@@ -3,8 +3,11 @@ layout: post
 title: 'Fundo Garagem Educação: 200 propostas de 20 estados e 10 professores para
   a próxima fase'
 date: '2021-03-12 01:43:42'
-tags:
-- financiamento-de-professores
+author: maluta
+categories: [ fundo garagem ]
+#image: assets/images/entendendo-o-income-share-agreement-pt1.jpg
+featured: false
+hidden: false
 ---
 
 Há algumas semanas resolvemos apostar em uma ideia: financiar projetos inovadores de professores brasileiros por meio de um pequeno fundo de R$ 5 mil.

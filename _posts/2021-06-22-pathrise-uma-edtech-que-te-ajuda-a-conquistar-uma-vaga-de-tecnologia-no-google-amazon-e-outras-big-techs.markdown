@@ -3,8 +3,11 @@ layout: post
 title: 'Pathrise: uma edtech que te ajuda a conquistar uma vaga de tecnologia no Google,
   Amazon e outras big techs'
 date: '2021-06-22 08:56:00'
-tags:
-- edtechdasemana
+author: amaral
+categories: [ edtech ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 Bem-vindo/a ao #EdTechDaSemana, um vídeo de 5 min ou menos falando sobre uma EdTech interessante

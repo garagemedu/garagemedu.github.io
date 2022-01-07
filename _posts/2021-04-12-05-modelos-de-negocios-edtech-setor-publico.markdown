@@ -3,12 +3,11 @@ layout: post
 title: 'Empreendendo na educação básica no setor público: um guia com 5 modelos de
   negócios possíveis'
 date: '2021-04-12 01:59:33'
-tags:
-- edtech
-- setor-publico
-- modelo-de-negocios
-- startup
-- vendas
+author: amaral
+categories: [ edtech, setor público, modelo de negócios, startup, vendas ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 ## Como eu me tornei um empreendedor atuando no setor público

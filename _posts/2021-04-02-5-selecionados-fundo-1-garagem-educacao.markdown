@@ -2,8 +2,12 @@
 layout: post
 title: Conheça os 5 professores selecionados do Fundo 1 do Garagem Educação
 date: '2021-04-02 19:08:33'
-tags:
-- financiamento-de-professores
+author: maluta
+categories: [ fundo garagem ]
+image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
+
 ---
 
 Hoje concluímos nossa jornada de seleção dos projetos da primeira edição do Fundo Garagem Educação. Chegamos ao momento tão esperado de anunciar os professores selecionados! &nbsp;

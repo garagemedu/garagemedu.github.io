@@ -2,8 +2,12 @@
 layout: post
 title: 'SV Academy: formando vendedores de software em escala'
 date: '2021-07-25 14:16:03'
-tags:
-- edtechdasemana
+author: amaral
+categories: [ edtech, edtech da semana ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
+
 ---
 
 Bem-vindo/a ao #EdTechDaSemana, um vídeo de 5 min ou menos falando sobre uma EdTech interessante do mundo.

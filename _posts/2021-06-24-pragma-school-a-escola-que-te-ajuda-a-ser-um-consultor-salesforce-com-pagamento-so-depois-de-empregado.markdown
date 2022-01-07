@@ -3,10 +3,11 @@ layout: post
 title: 'Pragma School: a escola que te ajuda a ser um consultor Salesforce com pagamento
   só depois de empregado'
 date: '2021-06-24 09:00:00'
-tags:
-- edtech
-- income-share-agreement
-- tecnologia
+author: amaral
+categories: [ edtech, income share agreement, tecnologia ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 Bem-vindo/a ao #EdTechDaSemana, um vídeo de 5 min ou menos falando sobre uma EdTech interessante do mundo.

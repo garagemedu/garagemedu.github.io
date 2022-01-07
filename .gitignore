@@ -1,5 +1,9 @@
 _site
+.DS_store
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+site
+*.json
+_drafts

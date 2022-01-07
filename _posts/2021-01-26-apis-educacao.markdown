@@ -2,8 +2,11 @@
 layout: post
 title: Sobre a importância das APIs no ecossistema das edtechs
 date: '2021-01-26 23:01:52'
-tags:
-- tecnologia
+author: maluta
+categories: [ tecnologia ]
+image: assets/images/apis-educacao.jpg
+featured: false
+hidden: false
 ---
 
 Uma API serve para que duas aplicações possam "conversar" entre si. Ponto. É um daqueles termos da computação que extrapolaram o ambiente de desenvolvimento de software e passam a compor vocabulário das pessoas de negócios das empresas e startups e que se misturam com uma longa lista de palavras (_in english_ é claro) que inclui : _Artificial Intelligence, Blockchain, Big Data, Cloud, Digital Transformation, SaaS, Machine Learning, ..._
@@ -31,9 +34,11 @@ Mesmo com a crescente digitalização dos serviços na educação e do aumento d
 
 ### 1) A transformação (digital) no Ensino Superior
 
-Lá no blog da Sensedia, startup brasileira que oferece em soluções para publicação e gestão de APIs, existe um artigo que aborda alguns [paradigmas da Educação Digital](https://sensedia.com/negocios-digitais/apis-novo-paradigma-educacao-digital/): o texto aborda, entre outras coisas, a questão da interoperabilidade dos dados, trazendo alguns no mercado de educação superior privada, como o _[case](https://www.youtube.com/watch?v=nrR1_W2-4NQ)_[da Estácio](https://www.youtube.com/watch?v=nrR1_W2-4NQ).
+Lá no blog da Sensedia, startup brasileira que oferece em soluções para publicação e gestão de APIs, existe um artigo que aborda alguns [paradigmas da Educação Digital](https://sensedia.com/negocios-digitais/apis-novo-paradigma-educacao-digital/): o texto aborda, entre outras coisas, a questão da interoperabilidade dos dados, trazendo alguns no mercado de educação superior privada, como o _[case](https://www.youtube.com/watch?v=nrR1_W2-4NQ)_ [da Estácio](https://www.youtube.com/watch?v=nrR1_W2-4NQ).
 
-<figure class="kg-card kg-image-card"><img src="/content/images/2021/01/apis-educacao-digital-edtechs-elearning-ead-1.png" class="kg-image" alt srcset="/content/images/2021/01/apis-educacao-digital-edtechs-elearning-ead-1.png 600w"></figure>
+
+![](/assets/images/apis-educacao-digital-edtechs-elearning-ead-1.png)
+
 
 O mercado privado de educação superior, pressionado pelo modelo de negócios, tem passado na última decada por um profundo processo de transformação digital e o diagrama acima resume bem como as APIs estão sendo aplicadas, integrando diferentes serviços do negócio.
 
@@ -41,27 +46,27 @@ O mercado privado de educação superior, pressionado pelo modelo de negócios, 
 
 Semelhante ao que já vem acontecendo com o ensino superior, o processo de digitalização no ensino básico também passa por um redesenho de arquitetura, o diagrama abaixo apresenta um exemplo de como a Vasta Educação (Cogna) está se estruturando para integrar diferentes serviços. Note, por exemplo, que o circulo da [Plurall](https://www.plurall.net) aí no centro "conversa" com diferentes serviços, também fazendo uso intensivo de APIs. &nbsp;
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2021/01/Screenshot_2021-01-25_18-02-41.png" class="kg-image" alt><figcaption>2020. Visão gerencial da Vasta Educação (Cogna) para a Educação Básica (<a href="https://api.mziq.com/mzfilemanager/v2/d/e1110a12-6e58-4cb0-be24-ed1d5f18049a/88a7c5aa-2cc5-dfd0-c68a-9492e8375c34?origin=2">ver apresentação completa</a>)</figcaption></figure>
+
+![](/assets/images/apis-educacao-vasta.png)
+
+
 ## E na educação pública?
 
 ### Mundo 
 
 Talvez o maior caso de sucesso é Clever, que começou em 2012 como uma _startup_ que propunha a integrar os sistemas de gestão escolar (conhecido lá por [_Student Information System_](https://en.wikipedia.org/wiki/Student_information_system) ou simplesmente SIS) com o ecossistemas de edtechs e assim oferecendo funcionalidades como: acesso logins únicos, enturmamento, etc;
 
-<figure class="kg-card kg-image-card"><img src="/content/images/2021/01/image-2.png" class="kg-image" alt srcset="/content/images/size/w600/2021/01/image-2.png 600w, /content/images/size/w1000/2021/01/image-2.png 1000w, /content/images/2021/01/image-2.png 1204w" sizes="(min-width: 720px) 720px"></figure>
+![](/assets/images/apis-educacao-clever.png)
 
 Hoje a empresa oferece uma plataforma de serviços para que as redes de ensino, escolas, professores e alunos possam acessar o mercado de edtechs.
 
 Inclusive, o sistema de login unificado (_Single Sign-on_) tem sido adotado em parcerias com editoras, como é o caso da McGraw Hill.
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://www.prnewswire.com/news-releases/mcgraw-hill-extends-its-relationship-with-clever-to-provide-seamless-access-to-digital-learning-tools-to-millions-of-k-12-students-301204762.html"><div class="kg-bookmark-content">
-<div class="kg-bookmark-title">McGraw Hill Extends its Relationship with Clever to Provide Seamless Access to Digital Learning Tools to Millions of K-12 Students</div>
-<div class="kg-bookmark-description">/PRNewswire/ -- McGraw Hill is expanding its partnership with Clever, the most widely-used single sign-on (SSO) and rostering service in the K-12 market, to...</div>
-<div class="kg-bookmark-metadata">
-<img class="kg-bookmark-icon" src="https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png"><span class="kg-bookmark-author">McGraw Hill</span><span class="kg-bookmark-publisher">PR Newswire</span>
-</div>
-</div>
-<div class="kg-bookmark-thumbnail"><img src="https://mma.prnewswire.com/media/1305952/McGraw_Hill_Logo.jpg?p=facebook"></div></a></figure>
+
+<ul>
+<li>McGraw Hill Extends its Relationship with Clever to Provide Seamless Access to Digital Learning Tools to Millions of K-12 Students <a href='https://www.prnewswire.com/news-releases/mcgraw-hill-extends-its-relationship-with-clever-to-provide-seamless-access-to-digital-learning-tools-to-millions-of-k-12-students-301204762.html'>(link)</a></li>
+</ul>
+
 ### Brasil 
 
 Nosso _radar_ ainda não mapeou um case de sucesso para compartilhar aqui. Logo, se você souber de alguma coisa, nos avise nos comentários. &nbsp;
@@ -93,7 +98,9 @@ As plataformas LMS continuam sendo utilizadas por uma série de organizações, 
 
 Vale destacar também que os sistemas LMS apostaram durante muito tempo em um outro tipo de integração, por meio de uma especificação chamada LTI (_Learning Tools Interoperability_) mas hoje também oferecem integrações por meio de APIs e poderia oferecer integrações necessarias.
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2021/01/Screenshot_2021-01-26_19-46-42-1.png" class="kg-image" alt srcset="/content/images/size/w600/2021/01/Screenshot_2021-01-26_19-46-42-1.png 600w, /content/images/2021/01/Screenshot_2021-01-26_19-46-42-1.png 927w" sizes="(min-width: 720px) 720px"><figcaption>Coleções de integrações por meio de LTI no site edu-apps.org</figcaption></figure>
+
+![](/assets/images/apis-educacao-eduappcenter.png)
+
 
 Quem acompanhar?
 
@@ -105,7 +112,10 @@ Quem acompanhar?
 
 Hoje estas organizações estão liderando seus processos internos de transformação digital podem se interessar também para atender os critérios necessários para atuar com o setor público, apostando talvez como uma nova vertical de mercado.
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2021/01/Screenshot_2021-01-25_17-55-52.png" class="kg-image" alt srcset="/content/images/size/w600/2021/01/Screenshot_2021-01-25_17-55-52.png 600w, /content/images/2021/01/Screenshot_2021-01-25_17-55-52.png 930w" sizes="(min-width: 720px) 720px"><figcaption>Assista o video completo em: <a href="https://youtu.be/xx1vzcoCGds?t=662">youtu.be/xx1vzcoCGds?t=662</a></figcaption></figure>
+![](/assets/images/apis-educacao-hubedu.png)
+
+
+Assista o video completo em: <a href="https://youtu.be/xx1vzcoCGds?t=662">youtu.be/xx1vzcoCGds?t=662</a></figcaption></figure>
 
 Quem acompanhar?
 

@@ -2,10 +2,11 @@
 layout: post
 title: '4 mil ligações e 298 contratos fechados: como vender para escolas particulares'
 date: '2021-03-12 15:05:01'
-tags:
-- escolas-particulares
-- vendas
-- edtech
+author: raphaelsanto
+categories: [ escolas particulares, vendas, edtech ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 Iniciei no setor de educação básica há 4 anos. Fui da linha de frente de vendas para escolas a supervisão comercial de vários times atualmente. Neste texto vou te contar o que aprendi sobre vendas para escolas ao realizar mais de 4.000 ligações, centenas de &nbsp;reuniões de vendas e fechar 298 parcerias.

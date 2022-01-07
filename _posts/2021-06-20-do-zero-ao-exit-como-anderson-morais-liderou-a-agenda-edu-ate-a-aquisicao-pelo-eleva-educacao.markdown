@@ -4,9 +4,11 @@ title: 'Do zero ao exit: Como Anderson Morais liderou a Agenda Edu até a aquisi
   pela Eleva Educação'
 featured: true
 date: '2021-06-20 23:07:18'
-tags:
-- zero-ao-exit
-- k12
+author: amaral
+categories: [ zero ao exit, K12 ]
+image: assets/images/do-zero-ao-exit-como-anderson-morais-liderou-a-agenda-edu-ate-a-aquisicao-pelo-eleva-educacao.png
+featured: true
+hidden: true
 ---
 
 <figure class="kg-card kg-image-card"><img src="https://lh3.googleusercontent.com/9-7SheJLF-AZ_v0aFPSW8Axhpx35cD1fkbvMYy6MpwEgsVsMBdHUG-Z9HL9L_o0BRuzCufR4rzdCi5TzwX1uNXKpWbgo9MKjINfs1ShDlX9mWNCuGkb02R13IDpFo6Lezm9g-Laz" class="kg-image" alt></figure>

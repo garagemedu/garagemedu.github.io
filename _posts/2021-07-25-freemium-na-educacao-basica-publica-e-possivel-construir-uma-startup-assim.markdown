@@ -3,8 +3,11 @@ layout: post
 title: 'Freemium na educação pública: o que aprendi impactando 300 mil alunos com
   ensino de Inglês'
 date: '2021-07-25 15:01:59'
-tags:
-- setor-publico
+author: amaral
+categories: [ setor público ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 ## Os inalcançáveis 85% do mercado de educação: o setor público

@@ -2,8 +2,12 @@
 layout: post
 title: 'Quizizz: transformando a educação básica com gameficação'
 date: '2021-07-25 13:52:18'
-tags:
-- edtechdasemana
+author: amaral
+categories: [ edtech, edtech da semana ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
+
 ---
 
 Bem-vindo/a ao #EdTechDaSemana, um vídeo de 5 min ou menos falando sobre uma EdTech interessante do mundo.

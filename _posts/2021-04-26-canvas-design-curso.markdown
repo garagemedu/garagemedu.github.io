@@ -2,9 +2,11 @@
 layout: post
 title: 'Canvas de Design de Cursos: 12 alavancas para alcançar curso-market fit'
 date: '2021-04-26 01:35:18'
-tags:
-- curso-baseado-em-grupo
-- canvas
+author: amaral
+categories: [ canvas, curso baseado em grupo ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 * * *

@@ -2,8 +2,11 @@
 layout: post
 title: 'Entendendo o ISA - parte 2: quais as melhores escolas de programação atualmente?'
 date: '2021-02-26 14:04:03'
-tags:
-- income-share-agreement
+author: amaral
+categories: [ income share agreement ]
+#image: assets/images/5-selecionados-fundo-1-garagem-educacao.png
+featured: false
+hidden: false
 ---
 
 _Este texto é a parte 2 de uma série sobre Income Share Agreement. [Se você não leu a parte 1, leia aqui](/entendendo-o-income-share-agreement/). Não há um número limitado para série._
