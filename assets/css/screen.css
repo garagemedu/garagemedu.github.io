@@ -152,7 +152,7 @@ section.recent-posts {
     letter-spacing: normal;
     line-break: auto;
     line-height: 1.2em;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
     overflow-wrap: normal;
     margin-bottom: 0.5rem;
@@ -160,6 +160,7 @@ section.recent-posts {
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
+    font-family: "Times New Roman", Times, serif;
     color: rgba(0, 0, 0, .44);
     font-size: 0.95rem;
     line-height: 1.6;
@@ -316,17 +317,18 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-weight: 700;
-/*  font-family: "EB Garamond"; */
-    font-family: "Times New Roman", Times, serif;
-
+    /* font-family: "Times New Roman", Times, serif; */
+    color: #1d2d35;
+    font-family: 'Knewave', cursive;
+    font-size: 55px;
+    /* background-color: #ffe000; */
 }
 
 .mainheading h1.posttitle {
-    font-weight: 700;
-    margin-bottom: 1rem;
-    font-size: 30px;
+    color: #1d2d35;
 }
+
+
 
 .footer {
     font-family: "Times New Roman", Times, serif;
