@@ -11,7 +11,6 @@ featured: true
 hidden: true
 ---
 
-<figure class="kg-card kg-image-card"><img src="https://lh3.googleusercontent.com/9-7SheJLF-AZ_v0aFPSW8Axhpx35cD1fkbvMYy6MpwEgsVsMBdHUG-Z9HL9L_o0BRuzCufR4rzdCi5TzwX1uNXKpWbgo9MKjINfs1ShDlX9mWNCuGkb02R13IDpFo6Lezm9g-Laz" class="kg-image" alt></figure>
 ## Encontre um mercado ávido por sua solução e o resto se resolve. Se eu pudesse resumir a trajetória da Agenda Edu seria com essa frase.   
 
 Anderson Morais é um dos co-fundadores da Agenda Edu e atuou como CEO durante a jornada que fez a startup ir do zero a mais de 1,5 milhões de usuários, resolvendo uma enorme dor das escolas brasileiras.
